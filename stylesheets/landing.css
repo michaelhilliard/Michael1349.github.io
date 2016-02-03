@@ -19,9 +19,9 @@ HEADER
 }
 
 .jumbotron{
-    text-align:center;
-    margin-bottom:10px;
-    height:500px;
+    text-align:left;
+    margin-bottom:5px;
+    height:px;
     padding-top:50px;
 }
 
@@ -41,8 +41,8 @@ MAIN CONTENT
 }
 
 .thumbnail_image{
-  max-height:200px;
-  max-width:242px;
+  max-height:150px;
+  width:50%;
 }
 
 article{
@@ -58,7 +58,7 @@ FOOTER - Layout and Sizing
 ***********************************/
 footer{
     height:100px;
-    text-align:center;
+    text-align:left;
     padding:20px;
 }
 
@@ -93,7 +93,7 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url(https://picjumbo.imgix.net/HNCK0392.jpg?q=40&w=1650&sharp=30) no-repeat center;
   background-size: cover;
 }
 
